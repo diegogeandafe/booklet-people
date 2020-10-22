@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>br.com.hlandim.springusuariocrud</groupId>
-	<artifactId>springusuariocrud</artifactId>
+	<groupId>br.com.booklet.people</groupId>
+	<artifactId>booklet-people</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>springusuariocrud</name>
+	<name>booklet-people</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -20,7 +20,6 @@
 	</properties>
 
 	<dependencies>
-		<!-- Spring core & mvc -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
